@@ -1,0 +1,24 @@
+#h1{
+    font-family:  Libre Baskerville;
+    color:rgb(218, 161, 161) ;
+    text-align: center;
+    text-transform: capitalize;
+}
+#para{
+    color: rgb(228, 211, 211);
+    text-align: center;
+    
+}
+*{
+    background-color: rgb(124, 50, 50)
+}
+#pic{
+    border: 5px solid rgb(22, 17, 17);
+    width: 100%;
+
+}
+#cadre{
+    width: 50%;
+    margin-left: 25%;
+    margin-top:20% ;
+}
